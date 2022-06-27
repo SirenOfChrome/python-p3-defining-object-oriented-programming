@@ -1,4 +1,4 @@
-# Intro to Object-Oriented Programming
+# Defining Object-Oriented Programming
 
 ## Learning Goals
 
