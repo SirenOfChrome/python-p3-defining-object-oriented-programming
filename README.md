@@ -5,6 +5,8 @@
 - Define Object Oriented Programming
 - Explain the benefits of Object Oriented Programming
 
+***
+
 ## Key Vocab
 
 - **Class**: a bundle of data and functionality. Can be copied and modified to
@@ -17,9 +19,11 @@ is an object-oriented programming language.
 - **Function**: a series of steps that create, transform, and move data.
 - **Method**: a function that is defined inside of a class.
 
+***
+
 ## Introduction
 
-## Object-Oriented Programming (OOP)
+### Object-Oriented Programming (OOP)
 
 _An object-oriented approach to application development makes programs more
 intuitive to design, faster to develop, more amenable to modification, and
@@ -83,6 +87,8 @@ Python comes with a few types of Objects to get us started, things like
 "Primitives." But what if we wanted to create a new type in our programming
 universe, a new kind of object for our code? That's what the `class` keyword
 and object orientation allows us to do.
+
+***
 
 ## Resources
 
